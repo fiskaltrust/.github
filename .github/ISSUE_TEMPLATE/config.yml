@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ideas, questions and help requests
+    url:  https://github.com/fiskaltrust/middleware/discussions
+    about: Please ask questions and discuss ideas in our main discussion section in the middleware repository.
+  - name: Support
+    url:  https://github.com/fiskaltrust/.github/blob/main/SUPPORT.md
+    about: If you are one of fiskaltrust's partners and need support for non-code-related problems, please refer to the support guidelines.
