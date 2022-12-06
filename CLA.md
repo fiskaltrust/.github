@@ -33,8 +33,13 @@ You agree to notify fiskaltrust in writing of any facts or circumstances of whic
 ### 8. Information about Submissions
 You agree that contributions to Projects and information about contributions may be maintained indefinitely and disclosed publicly, including Your name and other information that You submit with Your Submission.
 
-### 9. Governing Law/Jurisdiction
+### 9. Usage of signed binaries
+As a Compliance-as-a-Service provider, the security and authenticity of the products installed on our users' endpoints is essential to us. To ensure that only peer-reviewed binaries are distributed by maintainers, fiskaltrust explicitly reserves the sole right to use the brand name "fiskaltrust Middleware" (and the brand names of related products and services) for the software provided here as open source - regardless of the spelling or abbreviation, as long as conclusions can be drawn about the original product name.  
+
+The fiskaltrust Middleware (and related products and services) as contained in these repositories may therefore only be used in the form of binaries signed by fiskaltrust. 
+
+### 10. Governing Law/Jurisdiction
 This Agreement is governed by the laws of Austria, and the parties consent to exclusive jurisdiction and venue in the federal courts sitting in Salzburg, Austria. The parties waive all defenses of lack of personal jurisdiction and forum non-conveniens.
 
-### 10. Entire Agreement/Assignment
+### 11. Entire Agreement/Assignment
 This Agreement is the entire agreement between the parties, and supersedes any and all prior agreements, understandings or communications, written or oral, between the parties relating to the subject matter hereof. This Agreement may be assigned by fiskaltrust.
