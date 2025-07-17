@@ -1,4 +1,4 @@
-![fiskaltrust](https://raw.githubusercontent.com/fiskaltrust/.github/main/images/github-logo.png)
+![fiskaltrust](https://raw.githubusercontent.com/fiskaltrust/.github/main/images/fiskaltrust-developer-landing-page-hero-videos-with-text.gif)
 
 ## Hi there 👋
 Welcome to our GitHub page! At fiskaltrust, we aim to create a standard for carefree fiscalization all over Europe. 
