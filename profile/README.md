@@ -1,7 +1,7 @@
 ![fiskaltrust](https://raw.githubusercontent.com/fiskaltrust/.github/main/images/fiskaltrust-developer-landing-page-hero-videos-with-text.gif)
 
 > [!IMPORTANT]
-> 🛠️ **We're currently reworking our open-source presence.**
+> 🛠️ **Our ecosystem around POS processes, from e-reporting and e-invoicing to payments and digital receipts, keeps growing, and we're reworking our open-source presence to match.**
 > During this maintenance period, the [fiskaltrust Middleware](https://github.com/fiskaltrust/middleware) repository is temporarily private. It will be publicly available again soon. In the meantime, our [docs page](https://docs.fiskaltrust.eu) has everything you need to get started, and you can always reach us via our [website](https://fiskaltrust.eu).
 
 ## Hi there 👋
