@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > 🛠️ **We're currently reworking our open-source presence.**
-> During this maintenance period, the [fiskaltrust Middleware](https://github.com/fiskaltrust/middleware) repository is temporarily private. It will be publicly available again soon. In the meantime, our [docs page](https://docs.fiskaltrust.cloud) has everything you need to get started, and you can always reach us via our [website](https://fiskaltrust.eu).
+> During this maintenance period, the [fiskaltrust Middleware](https://github.com/fiskaltrust/middleware) repository is temporarily private. It will be publicly available again soon. In the meantime, our [docs page](https://docs.fiskaltrust.eu) has everything you need to get started, and you can always reach us via our [website](https://fiskaltrust.eu).
 
 ## Hi there 👋
 Welcome to our GitHub page! At fiskaltrust, we aim to create a standard for carefree fiscalization all over Europe. 
@@ -10,4 +10,4 @@ Welcome to our GitHub page! At fiskaltrust, we aim to create a standard for care
 We do so by developing an open-source POS Middleware with an international interface that can be embedded in all POS systems, either cloud-based or on-premise.
 Together with our add-on products - e.g. for revision-safe storage and 3rd party integrations - the Middleware is a perfect match for POS system manufacturers, software developers and system integrators who want to leave baseline POS features like fiscalization, payment or digital receipts to us, and focus on their core businesses.
 
-**Want to learn more about our partner-based approach and products? Check our [website](https://fiskaltrust.eu) and our [docs page](https://docs.fiskaltrust.cloud).**
+**Want to learn more about our partner-based approach and products? Check our [website](https://fiskaltrust.eu) and our [docs page](https://docs.fiskaltrust.eu).**
